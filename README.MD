@@ -16,7 +16,7 @@ Supports multiple Messe Stuttgart trade fair websites with a consistent HTML str
 - Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
-## 👇 Check My Other Exhibitor List Scrapers
+## 👇 Check My Other Exhibitor List Scrapers 
 
 - [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
 
