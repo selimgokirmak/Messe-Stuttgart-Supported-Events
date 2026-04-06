@@ -26,17 +26,17 @@ Supports multiple **Messe Stuttgart** trade fair websites with a consistent HTML
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -53,6 +53,8 @@ Supports multiple **Messe Stuttgart** trade fair websites with a consistent HTML
 - [Ungerboeck Exhibitor List Scraper](https://apify.com/skython/ungerboeck-exhibitor-list-scraper)
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
+
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
 
 ## 🎯 Supported Website Structure
@@ -141,3 +143,5 @@ Supports multiple **Messe Stuttgart** trade fair websites with a consistent HTML
 - [infotage FACHDENTAL München 2024 Exhibitor List – messe-stuttgart.de/infotagefachdental-muenchen](https://messe-stuttgart.de/infotagefachdental-muenchen/besucher/ausstellerverzeichnis/#/exhibitor)
 
 - [zukunfthaus Exhibitor List – messe-stuttgart.de/zukunfthaus](https://messe-stuttgart.de/zukunfthaus/ausstellung/unternehmen-produkte/ausstellerverzeichnis/#/exhibitor)
+
+- [R+T 2024 Exhibitor List – messe-stuttgart.de/r-t](https://www.messe-stuttgart.de/r-t/en/exhibition/exhibitors-products/exhibitor-index/#/exhibitor)
