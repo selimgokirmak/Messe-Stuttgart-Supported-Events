@@ -56,6 +56,10 @@ Supports multiple **Messe Stuttgart** trade fair websites with a consistent HTML
 
 - [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -69,6 +73,10 @@ Supports multiple **Messe Stuttgart** trade fair websites with a consistent HTML
 ## 🌐 Supported Messe Stuttgart Events (Exhibitor Lists)
 
 **Note:** *The following partial list includes Messe Stuttgart exhibitor directory URLs that have been tested so far. Other Messe Stuttgart or different events with the same website structure may also be supported.*
+
+- [GrindingHub 2026 Exhibitor List – grindinghub.de](https://www.grindinghub.de/en/exhibition/exhibitors-products/exhibitor-index/#/exhibitor)
+
+- [CastForge 2026 Exhibitor List – messe-stuttgart.de/castforge](https://www.messe-stuttgart.de/castforge/en/exhibition/exhibitors-products/exhibitor-index/#/exhibitor)
 
 - [Animal Exhibitor List – messe-stuttgart.de/animal](https://messe-stuttgart.de/animal/ausstellung/unternehmen-produkte/ausstellerverzeichnis/#/exhibitor)
 
